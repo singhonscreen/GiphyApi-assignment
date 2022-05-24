@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GiphyApi-assignment/static/css/main.df940b97.chunk.css",
+    "main.js": "/GiphyApi-assignment/static/js/main.b2cc7928.chunk.js",
+    "main.js.map": "/GiphyApi-assignment/static/js/main.b2cc7928.chunk.js.map",
+    "runtime-main.js": "/GiphyApi-assignment/static/js/runtime-main.792b93fd.js",
+    "runtime-main.js.map": "/GiphyApi-assignment/static/js/runtime-main.792b93fd.js.map",
+    "static/js/2.3c720c86.chunk.js": "/GiphyApi-assignment/static/js/2.3c720c86.chunk.js",
+    "static/js/2.3c720c86.chunk.js.map": "/GiphyApi-assignment/static/js/2.3c720c86.chunk.js.map",
+    "index.html": "/GiphyApi-assignment/index.html",
+    "static/css/main.df940b97.chunk.css.map": "/GiphyApi-assignment/static/css/main.df940b97.chunk.css.map",
+    "static/js/2.3c720c86.chunk.js.LICENSE.txt": "/GiphyApi-assignment/static/js/2.3c720c86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.792b93fd.js",
+    "static/js/2.3c720c86.chunk.js",
+    "static/css/main.df940b97.chunk.css",
+    "static/js/main.b2cc7928.chunk.js"
+  ]
+}
