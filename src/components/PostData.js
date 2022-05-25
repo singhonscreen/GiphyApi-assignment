@@ -18,7 +18,7 @@ const PostData = ({setPosts,posts}) => {
                             (item.imgSrc!=="" || item.message!=="") ?  <div>
                             <h3>your post.....</h3>
                             <div className="postCard">
-                            <h4 className='postStyle'>{item.name}</h4>
+                            <h4 className='postStyle'>{item.message}</h4>
                             {
                                 (item.imgSrc!=="")?<img className='imageinputStyle imgPost' src={item.imgSrc} alt='not found' /> :null
                             }
